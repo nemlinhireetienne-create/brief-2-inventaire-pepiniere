@@ -4,7 +4,8 @@
 
 ## Contexte
 
-✏️ *En cinq à huit phrases : qui utilise l'outil (son métier, son geste professionnel), son besoin, ce qu'il saisit, ce que le programme lui affiche, ce que l'outil ne fait pas.*
+L'outils est utilisé par un assitant de pépinière et développeur Agritech Junior. Son geste professionnel est d'observer les étiquettes et les organes présentés, reproduire la classification fournie, compter les plants. Son besoin est de structurer un inventaire et appliquer une classification botanique simple à partir d'une fiche de référence. Il saisira l'origine du relevé (étiquette, photo ou spécimen, qui a compté, quand). Le programme lui permettra de retrouver une espèce, lire son groupe botanique fourni et voir les quantités disponibles.
+
 
 ## Prérequis et lancement
 
