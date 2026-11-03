@@ -1,4 +1,4 @@
-// Lire et écrire les données dans un fichier JSON. À coder EN PREMIER : le menu en a besoin pour démarrer.
+// Lire et écrire les données dans un fichier JSON. À coder EN PREMIER : le menus en a besoin pour démarrer.
 // Fiche : fiches/2-donnees-json.md · Vérifier : npm run test:stockage
 import { readFile, writeFile } from 'node:fs/promises';
 

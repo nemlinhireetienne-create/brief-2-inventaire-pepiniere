@@ -7,7 +7,7 @@
 3. **L'agronomie.** Avec la fiche botanique et le coach agronomie, observez étiquettes, photos ou spécimens : repérez un organe végétatif et un organe reproducteur (s'il n'est pas visible, notez-le et appuyez-vous sur la fiche ou la photo), et le critère qui distingue les deux groupes. Une identification incertaine est signalée au coach, jamais devinée. Gardez vos notes pour `docs/fiche-agronomique.md`.
 4. **Les données.** Complétez `docs/dictionnaire-donnees.md`, avec l'origine des relevés. Ouvrez `donnees/plants.json` et calculez à la main le stock total, le nombre d'espèces et de plants de chaque groupe, et les lignes à 10 plants ou moins (dans `docs/releve-tests.md`).
 5. **Le code fourni.** Lisez `src/saisie.js` (la saisie au clavier), `src/outils.js` et les tests de `test/`. `app.js` est presque vide : vous y écrirez tout le menu. Notez dans `docs/journal-recherche.md` les notions que vous devrez chercher.
-6. **Le plan.** Remplissez la colonne « Prévu » de `docs/taches.md` : c'est vous qui organisez vos quatre jours.
+6. **Le plan.** Remplissez la colonne « Prévue » de `docs/taches.md` : c'est vous qui organisez vos quatres jours.
 
 **Une expérience pour lire un test rouge :** dans `src/outils.js`, remplacez `return NaN;` par `return 0;`, lancez `npm run test:outils`, lisez le message (`expected` = attendu, `actual` = obtenu), puis annulez avec `git restore src/outils.js`. 
  

@@ -8,7 +8,7 @@
 
 **Reçoit** le chemin d'un fichier JSON. **Renvoie** le tableau qu'il contient. Si le fichier n'existe pas ou n'est pas du JSON valide, laissez l'erreur remonter : le menu l'affiche.
 
-**À vous.** Pistes : `readFile` est déjà importée ; elle renvoie une promesse : que faut-il écrire devant ? Cherchez comment transformer un texte JSON en tableau JavaScript. (`JSON.perse`)
+**À vous.** Pistes : `readFile` est déjà importée ; elle renvoie une promesse : que faut-il écrire devant (`await`) ? Cherchez comment transformer un texte JSON en tableau JavaScript. (`JSON.perse`)
 
 ## `enregistrerJson(chemin, enregistrements)`
 

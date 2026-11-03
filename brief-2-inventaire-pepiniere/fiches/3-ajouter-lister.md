@@ -56,7 +56,7 @@ Renvoie un plant par ligne (pas de retour à la ligne après le dernier), ou `'A
 
 Renvoie le plant (l'objet de l'inventaire lui-même) ou `undefined`.
 
-**À vous.** Pistes : arrêtez la recherche dès que c'est trouvé ; que renvoyer si rien ne correspond ?
+**À vous.** Pistes : arrêtez la recherche dès que c'est trouvée ; que renvoyer si rien ne correspond ?
 
 ## 4. `verifierPlant(saisie, plants)`
 
