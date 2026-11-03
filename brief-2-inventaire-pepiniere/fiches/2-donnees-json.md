@@ -14,7 +14,7 @@
 
 Écrit le tableau dans le fichier, au format JSON indenté de 2 espaces. Le contenu précédent du fichier est remplacé.
 
-**À vous.** Piste : cherchez comment transformer un tableau en texte JSON (`JSON.stringify`) , et comment l'indenter.
+**À vous.** Piste : cherchez comment transformer un tableau en texte JSON (`JSON.stringify`) , et comment l'indenter (const contenu = JSON.stringify(enregistrements, null, 2)).
 
 ## Dans le menu
 

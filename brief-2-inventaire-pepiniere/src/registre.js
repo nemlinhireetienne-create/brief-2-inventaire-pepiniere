@@ -14,7 +14,7 @@ export function formaterPlant(plant) {
 // Renvoie un texte avec un plant par ligne (lignes séparées par '\n'),
 // ou 'Aucun plant enregistré.' si la liste est vide.
 export function listerPlants(plants) {
-  throw new Error('TODO : coder listerPlants dans src/registre.js');
+  throw new Error('TODO : coder listerPlants dans src/registre.js'²);
 }
 
 // Renvoie le plant qui a ce code (identifiant), ou undefined s'il n'existe pas.
