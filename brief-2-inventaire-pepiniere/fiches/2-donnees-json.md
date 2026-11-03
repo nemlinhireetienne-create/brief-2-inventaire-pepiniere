@@ -8,13 +8,13 @@
 
 **Reçoit** le chemin d'un fichier JSON. **Renvoie** le tableau qu'il contient. Si le fichier n'existe pas ou n'est pas du JSON valide, laissez l'erreur remonter : le menu l'affiche.
 
-**À vous.** Pistes : `readFile` est déjà importée ; elle renvoie une promesse : que faut-il écrire devant ? Cherchez comment transformer un texte JSON en tableau JavaScript.
+**À vous.** Pistes : `readFile` est déjà importée ; elle renvoie une promesse : que faut-il écrire devant ? Cherchez comment transformer un texte JSON en tableau JavaScript. (`JSON.perse`)
 
 ## `enregistrerJson(chemin, enregistrements)`
 
 Écrit le tableau dans le fichier, au format JSON indenté de 2 espaces. Le contenu précédent du fichier est remplacé.
 
-**À vous.** Piste : cherchez comment transformer un tableau en texte JSON, et comment l'indenter.
+**À vous.** Piste : cherchez comment transformer un tableau en texte JSON (`JSON.stringify`) , et comment l'indenter.
 
 ## Dans le menu
 
