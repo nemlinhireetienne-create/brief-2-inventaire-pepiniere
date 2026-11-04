@@ -85,3 +85,5 @@ test('ajouterPlant refuse un deuxième N01 : l’inventaire reste à dix lignes'
   assert.notEqual(ajouterPlant(plants, { ...SAISIE_VALIDE, id: 'N01' }).length, 0);
   assert.equal(plants.length, 10);
 });
+
+

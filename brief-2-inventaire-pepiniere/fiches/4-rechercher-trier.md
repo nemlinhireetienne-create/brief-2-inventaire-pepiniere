@@ -54,4 +54,4 @@ La liste triée s'affiche juste après le choix, sans titre ; autre sous-choix :
 
 ## Vérifier
 
-`npm run test:recherche`, puis dans le menu : `N09`, `N99`, `palmier`, `gymnosperme`, le tri. Après un tri, la liste (choix 2) doit être revenue dans l'ordre d'origine.
+`npm run test:recherche`, puis dans le menue : `N09`, `N99`, `palmier`, `gymnosperme`, le tri. Après un tri, la liste (choix 2) doit être revenue dans l'ordre d'origine.

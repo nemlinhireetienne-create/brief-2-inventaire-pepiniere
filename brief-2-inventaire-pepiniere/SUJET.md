@@ -4,7 +4,7 @@
 
 ## Le besoin
 
-Le responsable d'une pépinière pédagogique a des plants de plusieurs espèces, étiquetés, mais son inventaire est dispersé. Il veut retrouver une espèce, lire son groupe botanique fourni et voir les quantités disponibles. Vous êtes assistant de pépinière et développeur Agritech junior : vous construisez cet inventaire en JavaScript, avec Node.js.
+Le responsable d'une pepinière pédagogique a des plants de plusieurs espèces, étiquetés, mais son inventaire est dispersé. Il veut retrouver une espèce, lire son groupe botanique fourni et voir les quantités disponibles. Vous êtes assistant de pépinière et développeur Agritech junior : vous construisez cet inventaire en JavaScript, avec Node.js.
 
 - **Besoin professionnel** : structurer un inventaire et appliquer une classification botanique simple à partir d'une fiche de référence.
 - **Geste professionnel** : observer les étiquettes et les organes présentés, reproduire la classification fournie, compter les plants, saisir l'origine du relevé (étiquette, photo ou spécimen, qui a compté, quand). Les identifications incertaines sont signalées au coach.

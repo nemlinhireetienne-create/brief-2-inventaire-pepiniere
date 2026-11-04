@@ -36,3 +36,5 @@ test('trierParNombrePlants ne modifie pas l’inventaire d’origine', () => {
   trierParNombrePlants(plants);
   assert.deepEqual(ids(plants), ids(DONNEES));
 });
+
+

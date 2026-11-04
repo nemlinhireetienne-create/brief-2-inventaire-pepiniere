@@ -1,4 +1,4 @@
-// Synthèse des quantités disponibles.
+// Synthèse des quantités disponible.
 // Fiche : fiches/5-synthese.md · Vérifier : npm run test:synthese
 
 // Seuil de suivi des stocks faibles, en nombre de plants. C'est un repère pédagogique,

@@ -5,7 +5,7 @@
 **Calculs à la main** : refaites à la main les résultats de référence de `SUJET.md`, puis comparez avec votre programme. 
 Angiosperme : 30+45+20+50+25+18+12+22 = 222
 Total plants angiosperme : 22 et espèces: 8
-Gymnosperme : 8+10 = 18
+Gymnospermes : 8+10 = 18
 Total plants gymnospermes : 18 et espèces: 2
 Stock Total : 240 plants et 10 espèces.
 

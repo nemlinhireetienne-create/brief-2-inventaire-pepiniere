@@ -2,7 +2,7 @@
 
 > Une page, relue par le coach agronomie, d'après la fiche botanique. Une identification incertaine est signalée au coach, pas devinée.
 
-**Un organe végétatif** (espèce, organe, ce qu'on voit, son rôle) : Cacaoyer, Feuilles, Feuilles vertes et jaûnatres, Ils servent à vivre et à grandir.
+**Un organe végétatif** (espèce, organe, ce qu'on voit, son rôle) : Cacaoyer, Feuilles, Feuilles vertes et jaunatres, Ils servent à vivre et à grandir.
 
 **Un organe reproducteur** (espèce, organe, ce qu'on voit, son rôle) : Cacaoyer, cabosses, des boules qui renferment des graines, ils servent à se reproduire.
 

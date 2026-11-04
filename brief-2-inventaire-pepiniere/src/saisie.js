@@ -18,7 +18,7 @@ export function ouvrirSaisie() {
   lignes = clavier[Symbol.asyncIterator]();
 }
 
-// Affiche la question, attend que l'utilisateur appuie sur Entrée, puis renvoie
+// Affiche la question, attend que l'utilisateur appuie sur Entrée, puis renvoi
 // le texte tapé sans les espaces du début et de la fin.
 // Renvoie null si la saisie est fermée (Ctrl+C, ou fin des lignes envoyées au programme).
 // Exemple : const nom = await demander('Votre nom : ');

@@ -15,7 +15,7 @@ export function supprimerPlant(plants, id) {
 }
 
 // Modifie un champ d'un plant. valeur arrive sous forme de TEXTE, comme dans le menu.
-// Renvoie un tableau d'erreurs : [] si la modification est faite.
+// Renvoie un tableau d'erreur : [] si la modification est faite.
 // Erreurs : identifiant inconnu · champ 'id' (l'identifiant n'est pas modifiable) · champ absent de
 // CHAMPS_MODIFIABLES · valeur refusée par les règles de l'ajout. S'il y a une erreur, rien ne change.
 // nombrePlants est enregistré comme un nombre.

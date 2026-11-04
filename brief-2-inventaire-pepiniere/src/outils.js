@@ -16,7 +16,7 @@ export function versNombre(texte) {
 }
 
 // Renvoie true si le texte est une date qui existe, écrite au format AAAA-MM-JJ.
-// Exemples : estDateValide('2026-10-22') → true
+// Exemple : estDateValide('2026-10-22') → true
 //            estDateValide('22/10/2026') → false · estDateValide('2026-02-30') → false
 export function estDateValide(texte) {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(String(texte))) {

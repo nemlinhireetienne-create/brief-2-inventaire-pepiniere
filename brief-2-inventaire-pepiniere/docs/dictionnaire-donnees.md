@@ -10,6 +10,6 @@
 | `dateReleve` | | |une date qui existe, au format AAAA-MM-JJ | |2026-10-24 |
 | `groupe` | | | présent dans GROUPES| | gymnosperme|
 
-**Listes de valeurs autorisées** : Groupe : Angiosperme ou gymnosperme
+**Listes de valeurs autorisées** : Groupe : Angiospermes ou gymnospermes
 
 **Sources** : Plants.json et Sujet.md

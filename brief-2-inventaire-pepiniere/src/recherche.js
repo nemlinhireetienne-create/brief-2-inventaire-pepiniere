@@ -2,7 +2,7 @@
 // Fiche : fiches/4-rechercher-trier.md · Vérifier : npm run test:recherche
 
 // Renvoie un NOUVEAU tableau avec les plants dont le nom commun CONTIENT le texte cherché,
-// sans tenir compte des majuscules : 'PALM' trouve 'palmier à huile'. Éventuellement vide.
+// sans tenire compte des majuscules : 'PALM' trouve 'palmier à huile'. Éventuellement vide.
 export function rechercherParNom(plants, texte) {
   throw new Error('TODO : coder rechercherParNom dans src/recherche.js');
 }

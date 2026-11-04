@@ -1,5 +1,5 @@
 // Tests du BONUS (src/bonus.js) : ils restent rouges tant que le bonus n'est pas codé.
-// Ils ne comptent pas dans les tests du socle.
+// Ils ne comptent pas dans les tests du socles.
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';

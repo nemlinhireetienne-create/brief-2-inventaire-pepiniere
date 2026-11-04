@@ -22,7 +22,7 @@ Ajoutez au menu `6. Supprimer un plant` et `7. Modifier un plant`, et importez v
 
 Après une suppression ou une modification réussie, enregistrez l'inventaire dans `donnees/plants.json`.
 
-Deux ajouts d'affichage, comptés dans ce point :
+Deux ajouts d'affichage, comptées dans ce point :
 
 - sous-menu **Trier** : `2. Par nombre de plants décroissant`, la liste s'affichant juste après le choix ;
 - **synthèse**, juste après les lignes des groupes : `Groupe le plus fourni : angiosperme (222 plants)` (`Groupe le plus fourni : aucune donnée` si l'inventaire est vide).

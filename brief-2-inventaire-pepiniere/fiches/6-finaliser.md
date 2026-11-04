@@ -5,7 +5,7 @@
 ## Tester
 
 1. `npm test` : tous les tests du socle sont verts (seuls ceux du bonus peuvent rester rouges).
-2. **Faites tester par un camarade**, qui suit votre `docs/releve-tests.md` et essaie de casser le programme : nombre de plants négatif, vide, décimal (`2,5`, `2.5`), avec des lettres ou une unité ; code en double, en minuscules ; groupe hors liste ou au pluriel ; date `27/10/2026` ou `2026-02-30` ; plusieurs erreurs à la fois ; recherche en majuscules ; choix inconnu ; Entrée sans rien taper ; une espèce à 0 plant, puis une à exactement 10 plants. Corrigez, retestez, gardez la trace.
+2. **Faites tester par un camarade**, qui suit votre `docs/releve-tests.md` et essaie de casser le programme : nombre de plants négatif, vide, décimal (`2,5`, `2.5`), avec des lettres ou une unité ; code en double, en minuscule ; groupe hors liste ou au pluriel ; date `27/10/2026` ou `2026-02-30` ; plusieurs erreurs à la fois ; recherche en majuscules ; choix inconnu ; Entrée sans rien taper ; une espèce à 0 plant, puis une à exactement 10 plants. Corrigez, retestez, gardez la trace.
 3. **Écrivez vos propres tests** dans les fichiers `test/*.test.js` pour les cas limites (au moins quatre donnent un bonus).
 
 ## Documenter

@@ -33,7 +33,7 @@ Piste : `synthese.cle` et `synthese[cle]` ne veulent pas dire la même chose.
 
 ## 3. `stocksFaibles(plants, seuil)`
 
-Renvoie un **nouveau** tableau des plants dont le nombre est **inférieur ou égal** au seuil : N09 et N10 pour un seuil de 10. Le menu utilise `SEUIL_STOCK_FAIBLE` (10), un repère pédagogique, pas une recommandation de production.
+Renvoie un **nouveau** tableau des plants dont le nombre est **inférieur ou égal** au seuil : N09 et N10 pour un seuil de 10. Le menu utilise `SEUIL_STOCK_FAIBLE` (10), un repère pédagogique, pas une récommandation de production.
 
 **À vous.** Pistes : la ligne à exactement 10 plants en fait partie ; utilisez le seuil reçu, jamais `10` écrit en dur.
 

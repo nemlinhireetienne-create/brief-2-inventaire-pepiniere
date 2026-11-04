@@ -76,7 +76,7 @@ N'ajoutez aucune autre règle.
 
 ## 5. `creerPlant(saisie)`
 
-Renvoie un **nouvel** objet, avec `nombrePlants` converti en nombre (`'1 000'` devient `1000`).
+Renvoie un **nouvel** objet, avec `nombrePlants` convertis en nombre (`'1 000'` devient `1000`).
 
 **À vous.**
 

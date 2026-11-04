@@ -32,3 +32,5 @@ test('extension : chargerJson laisse remonter l’erreur « fichier absent » (E
   await rm(chemin, { force: true });
   await assert.rejects(() => chargerJson(chemin), (erreur) => erreur.code === 'ENOENT' || erreur.cause?.code === 'ENOENT');
 });
+
+
