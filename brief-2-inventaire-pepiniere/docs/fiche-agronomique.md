@@ -11,7 +11,8 @@
 | Cacao | angiosperme |Plantes à fleur; ses graines sont enfermées dans un fruit |Oui |
 | cycas | gymnosperme |Plantes sans vraie fleur; ses graines sont nues, souvent portées par des cônes |Non |
 
-**Le seuil de 10 plants dit-il qu'il faut produire davantage d'une espèce ?** ✏️
+**Le seuil de 10 plants dit-il qu'il faut produire davantage d'une espèce ?** 
+Non il sert à identifier les espèces dont le stock est faible.
 
 Sources et origine des observations :  Fiche B : Plantes groupes végétaux
 · Relu par le coach le : 2026-10-24

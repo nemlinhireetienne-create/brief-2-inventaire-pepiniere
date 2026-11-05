@@ -14,4 +14,9 @@
 | Dépôt cloné et lancé ailleurs ; démonstration répétée | |05-11-2026 | |
 | Bonus | | 05-11-2026| |
 
-**Blocages** (le message exacte, ce que j'ai essayé, la solution) : ✏️
+**Blocages** (le message exacte, ce que j'ai essayé, la solution) :
+Message : npm error Missing script: "test:saisie".
+
+Ce que j'ai essayé : j'ai exécuté npm run test:saisie.
+
+Solution : j'ai exécuté npm run pour consulter les scripts disponibles. J'ai compris que le fichier saisie.js ne possédait pas de test spécifique et que je pouvais vérifier son fonctionnement en lançant l'application.

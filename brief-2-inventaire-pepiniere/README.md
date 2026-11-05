@@ -48,3 +48,5 @@ Sous PowerShell, si `npm` est bloqué : `npm.cmd test`.
 ## Auteur
 
 ✏️ *Prénom NOM, compte GitHub. Entraide : avec qui, sur quoi.*
+Hire Etienne NEMLIN, https://github.com/nemlinhireetienne-create
+Entraide : Avec quelques membres ayant le projet 2 (Inventaire d'une pépinière) dont Abdallah SALIA, KONATE Kaba, Patrick KOUAMELAN, Ducelvie BATSIMBA, Sitafa TOURE, Arnaud DOGBE, Adama KONATE, Latifatou sur la comprehension générale du sujet.

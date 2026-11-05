@@ -24,4 +24,4 @@ N10 : nombrePlants 10
 | Ajout date invalide |Ajout refusé : La date du relevé est invalide |Ajout refusé |Hire Etienne NEMLIN |
 | Recherche code N16 |Plan N16 introuvable. |Plant N16 introuvable |Hire Etienne NEMLIN |
 
-**Sur un autre poste** (`git clone`, `node app.js`, `npm test`, en suivant le README) : ✏️
+**Sur un autre poste** (`git clone`, `node app.js`, `npm test`, en suivant le README) : Florent KONAN
