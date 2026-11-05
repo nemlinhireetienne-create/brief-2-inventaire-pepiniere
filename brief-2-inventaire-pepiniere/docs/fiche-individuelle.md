@@ -8,4 +8,6 @@ J'ai travaillé sur la fonction stocksFaibles(plants). Elle permet d'identifier 
 2. **Une difficulté, et sa solution** :
 J'ai également rencontré des difficultés avec Git et GitHub, notamment lors de l'enregistrement et de l'envoi de mes modifications. Grâce à l'aide de certains collègue et aussi de l'IA j'ai pu resoudre ce problème.
 
-3. **L'entraide** (qui m'a aidé, qui j'ai aidé, sur quoi) : ✏️
+3. **L'entraide** (qui m'a aidé, qui j'ai aidé, sur quoi) : 
+J'ai aidé Thyedie Akpli Kouassi à resoudre quelques souci sur git et GitHub
+Abdallah Salia m'a aidé dans la compréhension d'une fonction.
