@@ -1,5 +1,5 @@
 // Inventaire de la pépinière — point d'entrée : le menu.
-// À vous d'écrire tout le menu : accueil, chargement des données, menu affiché avant chaque choix,
+// À vous d'écrire toutS le menu : accueil, chargement des données, menu affiché avant chaque choix,
 // actions, sortie et gestion des erreurs. Comportement et textes imposés : fiches/3-ajouter-lister.md.
 // Lancer : node app.js
 // Inventaire de la pépinière — point d'entrée : le menu.
